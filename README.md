@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abhishek C Sreejith
-- 👀 I’m interested in android and software development
-- 🌱 I’m currently learning B.E.Computer Science and Engg
+- 👀 I’m Software engineer with field of expertise on ios Development and backend development.
 - 📫 How to reach me  
   -   abhisheksreejithabhi673@gmail.com
   -  https://www.linkedin.com/in/abhishek-c-sreejith-589224231
